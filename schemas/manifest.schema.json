@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "book-content manifest",
+  "type": "object",
+  "required": ["schemaVersion", "contentVersion", "lastUpdated", "books"],
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "contentVersion": { "type": "integer", "minimum": 1 },
+    "lastUpdated": { "type": "string", "format": "date-time" },
+    "minimumAppVersion": { "type": "string" },
+    "forceRefresh": { "type": "boolean" },
+    "collectionsPath": { "type": "string" },
+    "categoriesPath": { "type": "string" },
+    "books": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "author", "updatedAt", "jsonPath"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "title": { "type": "string", "minLength": 1 },
+          "author": { "type": "string", "minLength": 1 },
+          "updatedAt": { "type": "string", "format": "date-time" },
+          "jsonPath": { "type": "string", "pattern": "^books/.+\\.json$" },
+          "markdownPath": { "type": "string", "pattern": "^markdown/.+\\.md$" },
+          "coverPath": { "type": "string", "pattern": "^images/.+\\.(jpg|jpeg|png|webp)$" },
+          "sha256": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": "software", "name": "소프트웨어", "emoji": "💻" },
+    { "id": "self-improvement", "name": "자기계발", "emoji": "🌱" },
+    { "id": "design", "name": "디자인", "emoji": "🎨" },
+    { "id": "humanities", "name": "인문학", "emoji": "📜" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clean-code",
+  "title": "Clean Code",
+  "subtitle": "좋은 코드와 나쁜 코드를 가르는 기준",
+  "author": "Robert C. Martin",
+  "publisher": "Prentice Hall",
+  "publishedYear": 2008,
+  "isbn": "9780132350884",
+  "category": "software",
+  "tags": ["개발", "설계", "품질", "리팩터링"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 12,
+  "curatorScore": 95,
+  "oneLine": "좋은 코드는 읽히는 코드라는 관점을 알려주는 책",
+  "whyRead": "코드를 작성하는 모든 개발자가 품질 기준을 세우는 데 도움이 된다. 동작하는 코드를 넘어 유지보수되는 코드를 쓰는 첫걸음이다.",
+  "summary": [
+    "이름은 의도를 드러내야 한다.",
+    "함수는 작고 한 가지 일을 해야 한다.",
+    "주석보다 좋은 구조가 먼저다.",
+    "테스트 코드도 실제 코드만큼 깨끗해야 한다."
+  ],
+  "keyQuotes": [
+    "코드는 작성되는 시간보다 읽히는 시간이 훨씬 길다.",
+    "나중은 결코 오지 않는다."
+  ],
+  "curatorNote": "10년 넘게 곁에 두고 다시 읽는 책입니다. 모든 규칙에 동의하지 않더라도, '내 코드의 기준은 무엇인가'를 스스로 묻게 만드는 힘이 있습니다.",
+  "recommendedFor": [
+    "개발 입문을 넘어 코드 품질을 고민하는 사람",
+    "리팩터링 기준을 세우고 싶은 사람",
+    "코드 리뷰에서 무엇을 봐야 할지 막막한 사람"
+  ],
+  "relatedBookIds": ["atomic-habits", "design-of-everyday-things"],
+  "markdownPath": "markdown/clean-code.md",
+  "createdAt": "2026-06-10T09:00:00+09:00",
+  "updatedAt": "2026-06-10T09:00:00+09:00"
+}

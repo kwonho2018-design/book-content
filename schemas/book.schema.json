@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "book-content book",
+  "type": "object",
+  "required": ["id", "title", "author", "category", "tags", "difficulty", "oneLine", "whyRead", "summary", "keyQuotes"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "title": { "type": "string", "minLength": 1 },
+    "subtitle": { "type": "string" },
+    "author": { "type": "string", "minLength": 1 },
+    "publisher": { "type": "string" },
+    "publishedYear": { "type": "integer", "minimum": 1000, "maximum": 2100 },
+    "isbn": { "type": "string" },
+    "coverImage": { "type": "string", "pattern": "^images/.+\\.(jpg|jpeg|png|webp)$" },
+    "category": { "type": "string", "minLength": 1 },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "difficulty": { "enum": ["beginner", "intermediate", "advanced"] },
+    "estimatedReadMinutes": { "type": "integer", "minimum": 1 },
+    "curatorScore": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "oneLine": { "type": "string", "minLength": 1 },
+    "whyRead": { "type": "string", "minLength": 1 },
+    "summary": { "type": "array", "items": { "type": "string" } },
+    "keyQuotes": { "type": "array", "items": { "type": "string" } },
+    "curatorNote": { "type": "string" },
+    "recommendedFor": { "type": "array", "items": { "type": "string" } },
+    "relatedBookIds": { "type": "array", "items": { "type": "string" } },
+    "markdownPath": { "type": "string", "pattern": "^markdown/.+\\.md$" },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

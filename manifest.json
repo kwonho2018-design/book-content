@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "lastUpdated": "2026-06-10T09:00:00+09:00",
+  "minimumAppVersion": "1.0.0",
+  "forceRefresh": false,
+  "books": [
+    {
+      "id": "clean-code",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "updatedAt": "2026-06-10T09:00:00+09:00",
+      "jsonPath": "books/clean-code.json",
+      "markdownPath": "markdown/clean-code.md"
+    },
+    {
+      "id": "atomic-habits",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "updatedAt": "2026-06-10T09:00:00+09:00",
+      "jsonPath": "books/atomic-habits.json",
+      "markdownPath": "markdown/atomic-habits.md"
+    },
+    {
+      "id": "design-of-everyday-things",
+      "title": "The Design of Everyday Things",
+      "author": "Donald A. Norman",
+      "updatedAt": "2026-06-10T09:00:00+09:00",
+      "jsonPath": "books/design-of-everyday-things.json",
+      "markdownPath": "markdown/design-of-everyday-things.md"
+    }
+  ],
+  "collectionsPath": "collections.json",
+  "categoriesPath": "categories.json"
+}

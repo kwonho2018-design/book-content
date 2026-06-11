@@ -1,0 +1,36 @@
+{
+  "id": "design-of-everyday-things",
+  "title": "The Design of Everyday Things",
+  "subtitle": "도어 손잡이에서 배우는 디자인의 본질",
+  "author": "Donald A. Norman",
+  "publisher": "Basic Books",
+  "publishedYear": 2013,
+  "isbn": "9780465050659",
+  "category": "design",
+  "tags": ["디자인", "UX", "심리학", "설계"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 14,
+  "curatorScore": 88,
+  "oneLine": "사용자가 헤매는 것은 사용자의 잘못이 아니라 디자인의 잘못이라는 선언",
+  "whyRead": "앱을 만드는 사람이라면 어포던스, 시그니파이어, 멘탈 모델이라는 렌즈를 얻게 된다. 한 번 읽으면 세상의 모든 문 손잡이가 다르게 보인다.",
+  "summary": [
+    "좋은 디자인은 발견 가능성과 이해 가능성을 제공한다.",
+    "사람들은 기계의 모델이 아니라 자신의 멘탈 모델로 행동한다.",
+    "에러는 사용자의 실수가 아니라 시스템 설계의 신호다.",
+    "피드백 없는 인터페이스는 침묵하는 인터페이스다."
+  ],
+  "keyQuotes": [
+    "잘못은 사용자에게 있지 않다. 디자인에 있다.",
+    "좋은 디자인은 눈에 보이지 않는다. 나쁜 디자인만 눈에 띈다."
+  ],
+  "curatorNote": "SwiftUI 화면 하나를 만들 때도 이 책의 질문이 따라옵니다. '사용자는 지금 무엇을 할 수 있는지 알 수 있는가?' 개발자에게 가장 추천하는 디자인 책입니다.",
+  "recommendedFor": [
+    "UI를 직접 만드는 개발자",
+    "UX 디자이너와 협업하는 사람",
+    "왜 내 앱이 어렵다는 말을 듣는지 궁금한 사람"
+  ],
+  "relatedBookIds": ["clean-code"],
+  "markdownPath": "markdown/design-of-everyday-things.md",
+  "createdAt": "2026-06-10T09:00:00+09:00",
+  "updatedAt": "2026-06-10T09:00:00+09:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "atomic-habits",
+  "title": "Atomic Habits",
+  "subtitle": "아주 작은 습관의 힘",
+  "author": "James Clear",
+  "publisher": "Avery",
+  "publishedYear": 2018,
+  "isbn": "9780735211292",
+  "category": "self-improvement",
+  "tags": ["습관", "성장", "자기계발", "시스템"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 10,
+  "curatorScore": 90,
+  "oneLine": "목표가 아니라 시스템이 사람을 바꾼다는 것을 증명하는 책",
+  "whyRead": "거창한 결심 대신 1%의 개선을 쌓는 법을 알려준다. 개발자의 학습 루틴, 사이드 프로젝트 지속에도 그대로 적용된다.",
+  "summary": [
+    "습관은 복리로 쌓인다. 매일 1%면 1년에 37배다.",
+    "목표를 세우지 말고 시스템을 만들어라.",
+    "정체성이 바뀌어야 습관이 유지된다.",
+    "환경 설계가 의지력보다 강하다."
+  ],
+  "keyQuotes": [
+    "당신은 목표 수준으로 올라가지 않는다. 시스템 수준으로 떨어진다.",
+    "모든 행동은 당신이 되고 싶은 사람에 대한 투표다."
+  ],
+  "curatorNote": "매일 코딩하는 습관을 만들고 싶다면 이 책의 '2분 규칙'부터 시작해 보세요. 거대한 결심보다 작은 시작이 항상 이깁니다.",
+  "recommendedFor": [
+    "꾸준한 학습 루틴을 만들고 싶은 사람",
+    "사이드 프로젝트를 끝까지 끌고 가고 싶은 사람",
+    "의지력 부족을 자책해 본 적 있는 사람"
+  ],
+  "relatedBookIds": ["clean-code"],
+  "markdownPath": "markdown/atomic-habits.md",
+  "createdAt": "2026-06-10T09:00:00+09:00",
+  "updatedAt": "2026-06-10T09:00:00+09:00"
+}
