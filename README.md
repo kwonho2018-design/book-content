@@ -1,6 +1,6 @@
-# book-content — 책책책 콘텐츠 저장소
+# book-content — RAYUL BOOKS 콘텐츠 저장소
 
-iPhone 앱 **책책책**이 읽어 가는 콘텐츠 저장소입니다.
+iPhone 앱 **RAYUL BOOKS**가 읽어 가는 콘텐츠 저장소입니다.
 이 저장소의 `main` 브랜치에 push하면 GitHub Actions가 검증 후 GitHub Pages로 배포하고,
 앱은 다음 실행/수동 동기화 때 새 콘텐츠를 받아갑니다. **앱 업데이트는 필요 없습니다.**
 
