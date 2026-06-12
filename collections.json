@@ -4,21 +4,18 @@
       "id": "life-changing",
       "title": "인생을 바꾸는 책",
       "description": "읽기 전과 후의 내가 달라지는 책들. 한 권이 습관을, 습관이 인생을 바꿉니다.",
-      "coverPath": "images/collection-life-changing.jpg",
       "bookIds": ["atomic-habits", "clean-code"]
     },
     {
       "id": "for-working-people",
       "title": "일하는 사람을 위한 책",
       "description": "더 나은 결과물을 만들고 싶은 모든 직업인을 위한 큐레이션.",
-      "coverPath": "images/collection-working.jpg",
       "bookIds": ["clean-code", "design-of-everyday-things"]
     },
     {
       "id": "humanities-for-engineers",
       "title": "기술자를 위한 인문학",
       "description": "코드 밖의 세계를 이해하면 코드가 달라집니다. 사람을 공부하는 기술자를 위해.",
-      "coverPath": "images/collection-humanities.jpg",
       "bookIds": ["design-of-everyday-things", "atomic-habits"]
     }
   ]
