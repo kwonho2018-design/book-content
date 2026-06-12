@@ -4,7 +4,7 @@
       "id": "life-changing",
       "title": "인생을 바꾸는 책",
       "description": "읽기 전과 후의 내가 달라지는 책들. 한 권이 습관을, 습관이 인생을 바꿉니다.",
-      "bookIds": ["atomic-habits", "clean-code"]
+      "bookIds": ["atomic-habits", "tidying-up", "how-to-stop-worrying-and-start-living", "as-a-man-thinketh"]
     },
     {
       "id": "for-working-people",
@@ -16,7 +16,13 @@
       "id": "humanities-for-engineers",
       "title": "기술자를 위한 인문학",
       "description": "코드 밖의 세계를 이해하면 코드가 달라집니다. 사람을 공부하는 기술자를 위해.",
-      "bookIds": ["design-of-everyday-things", "atomic-habits"]
+      "bookIds": ["design-of-everyday-things", "atomic-habits", "as-a-man-thinketh"]
+    },
+    {
+      "id": "mind-and-life-reset",
+      "title": "마음과 생활을 정돈하는 책",
+      "description": "공간, 걱정, 생각의 방향을 정리해 하루를 다시 세우는 책들.",
+      "bookIds": ["tidying-up", "how-to-stop-worrying-and-start-living", "as-a-man-thinketh"]
     }
   ]
 }

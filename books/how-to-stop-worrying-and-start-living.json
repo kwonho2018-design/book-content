@@ -1,0 +1,36 @@
+{
+  "id": "how-to-stop-worrying-and-start-living",
+  "title": "데일 카네기 자기관리론",
+  "subtitle": "국내최초 초판 무삭제 완역본",
+  "author": "데일 카네기",
+  "publisher": "현대지성",
+  "publishedYear": 2021,
+  "isbn": "9791191280333",
+  "category": "self-improvement",
+  "tags": ["걱정", "자기관리", "실천", "스트레스", "태도"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 16,
+  "curatorScore": 94,
+  "oneLine": "걱정을 없애는 책이 아니라, 걱정을 행동 가능한 문제로 분해하는 책",
+  "whyRead": "불안은 머릿속에 머물 때 가장 커진다. 카네기는 걱정을 사실 확인, 최악의 경우 수용, 오늘 할 일로 나누어 다루는 실용적인 태도를 제시한다.",
+  "summary": [
+    "걱정의 상당 부분은 아직 검증되지 않은 상상에서 시작된다.",
+    "문제를 글로 정리하면 감정과 사실을 분리할 수 있다.",
+    "미래 전체를 통제하려 하기보다 오늘의 행동 단위로 줄여야 한다.",
+    "휴식, 일, 관계를 관리하는 방식이 마음의 내구성을 만든다."
+  ],
+  "keyQuotes": [
+    "걱정은 생각할수록 커지고, 행동으로 나눌수록 줄어든다.",
+    "하루를 작게 관리하면 미래라는 이름의 압박도 작아진다."
+  ],
+  "curatorNote": "고전 자기계발서 특유의 사례 중심 문체가 있지만, 핵심은 지금 읽어도 단단합니다. 특히 선택지가 너무 많아 아무것도 못 하는 날, 이 책은 '오늘 처리할 수 있는 것'으로 시야를 좁혀 줍니다.",
+  "recommendedFor": [
+    "생각이 많아 실행이 늦어지는 사람",
+    "일과 관계의 걱정을 집까지 가져오는 사람",
+    "불안을 없애기보다 다루는 루틴을 만들고 싶은 사람"
+  ],
+  "relatedBookIds": ["atomic-habits", "tidying-up", "as-a-man-thinketh"],
+  "markdownPath": "markdown/how-to-stop-worrying-and-start-living.md",
+  "createdAt": "2026-06-12T20:20:50+09:00",
+  "updatedAt": "2026-06-12T20:20:50+09:00"
+}

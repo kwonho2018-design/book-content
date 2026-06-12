@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 2,
-  "lastUpdated": "2026-06-12T18:44:39+09:00",
+  "contentVersion": 3,
+  "lastUpdated": "2026-06-12T20:20:50+09:00",
   "minimumAppVersion": "1.0.0",
   "forceRefresh": false,
   "books": [
@@ -28,6 +28,30 @@
       "updatedAt": "2026-06-10T09:00:00+09:00",
       "jsonPath": "books/design-of-everyday-things.json",
       "markdownPath": "markdown/design-of-everyday-things.md"
+    },
+    {
+      "id": "tidying-up",
+      "title": "정리의 힘",
+      "author": "곤도 마리에",
+      "updatedAt": "2026-06-12T20:20:50+09:00",
+      "jsonPath": "books/tidying-up.json",
+      "markdownPath": "markdown/tidying-up.md"
+    },
+    {
+      "id": "how-to-stop-worrying-and-start-living",
+      "title": "데일 카네기 자기관리론",
+      "author": "데일 카네기",
+      "updatedAt": "2026-06-12T20:20:50+09:00",
+      "jsonPath": "books/how-to-stop-worrying-and-start-living.json",
+      "markdownPath": "markdown/how-to-stop-worrying-and-start-living.md"
+    },
+    {
+      "id": "as-a-man-thinketh",
+      "title": "원인과 결과의 법칙",
+      "author": "제임스 앨런",
+      "updatedAt": "2026-06-12T20:20:50+09:00",
+      "jsonPath": "books/as-a-man-thinketh.json",
+      "markdownPath": "markdown/as-a-man-thinketh.md"
     }
   ],
   "collectionsPath": "collections.json",
