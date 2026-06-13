@@ -1,0 +1,32 @@
+{
+  "id": "entrepreneur-equation",
+  "title": "당신은 사업가입니까",
+  "subtitle": "창업 전 스스로에게 물어야 할 질문들",
+  "author": "캐럴 로스",
+  "publisher": "알에이치코리아",
+  "publishedYear": 2025,
+  "isbn": "9788925574028",
+  "category": "career",
+  "tags": ["커리어", "창업", "독립", "리스크"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 11,
+  "curatorScore": 85,
+  "oneLine": "독립과 창업을 낭만이 아니라 계산 가능한 선택으로 보게 하는 책",
+  "whyRead": "커리어 후반전에 독립을 생각한다면 먼저 자신이 감당할 리스크를 알아야 한다. 이 책은 사업을 시작하기 전의 냉정한 질문을 제공한다.",
+  "summary": [
+    "창업은 열정만으로 결정할 일이 아니라 자원, 성향, 시장, 리스크를 함께 봐야 하는 선택이다.",
+    "사업가가 되고 싶은 마음과 실제 사업가로 버티는 능력은 다를 수 있다.",
+    "안정된 직장을 떠나기 전 점검해야 할 질문을 구체적으로 던진다.",
+    "무작정 도전하라는 메시지보다 실패 확률을 줄이는 현실 감각에 가깝다."
+  ],
+  "keyQuotes": [
+    "사업은 꿈을 증명하는 무대이기 전에 리스크를 관리하는 구조다.",
+    "독립을 원한다면 먼저 자신이 어떤 불확실성을 견딜 수 있는지 알아야 한다."
+  ],
+  "curatorNote": "창업을 부추기는 책이 아니라, 창업 전에 멈춰 서게 하는 책입니다. 그래서 더 유용합니다.",
+  "recommendedFor": ["퇴사와 창업을 고민하는 사람", "1인 사업이나 사이드 비즈니스를 준비하는 사람", "커리어 독립의 현실 비용을 알고 싶은 사람"],
+  "relatedBookIds": ["the-one-thing", "psychology-of-money"],
+  "markdownPath": "markdown/entrepreneur-equation.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

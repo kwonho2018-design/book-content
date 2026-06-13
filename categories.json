@@ -3,6 +3,10 @@
     { "id": "software", "name": "소프트웨어", "emoji": "💻" },
     { "id": "self-improvement", "name": "자기계발", "emoji": "🌱" },
     { "id": "design", "name": "디자인", "emoji": "🎨" },
-    { "id": "humanities", "name": "인문학", "emoji": "📜" }
+    { "id": "humanities", "name": "인문학", "emoji": "📜" },
+    { "id": "career", "name": "커리어", "emoji": "🧭" },
+    { "id": "finance", "name": "재정", "emoji": "💰" },
+    { "id": "health", "name": "건강", "emoji": "🏃" },
+    { "id": "relationships", "name": "관계", "emoji": "🤝" }
   ]
 }

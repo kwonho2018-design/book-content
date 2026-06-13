@@ -1,0 +1,32 @@
+{
+  "id": "designing-your-life",
+  "title": "Designing Your Life",
+  "subtitle": "How to Build a Well-Lived, Joyful Life",
+  "author": "Bill Burnett, Dave Evans",
+  "publisher": "Knopf",
+  "publishedYear": 2016,
+  "isbn": "9781101875322",
+  "category": "design",
+  "tags": ["전환", "커리어", "디자인씽킹", "삶"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 10,
+  "curatorScore": 87,
+  "oneLine": "인생을 정답 찾기가 아니라 실험과 설계의 과정으로 보게 하는 책",
+  "whyRead": "앞으로 10년을 다시 설계하려면 완벽한 계획보다 작은 실험이 필요하다. 이 책은 디자인 사고를 삶과 커리어 전환에 적용하게 한다.",
+  "summary": [
+    "삶의 방향은 머릿속 고민만으로 찾기보다 작은 실험을 통해 발견할 수 있다.",
+    "디자인 사고를 커리어와 일상 선택에 적용한다.",
+    "하나의 정답 인생이 아니라 여러 가능한 삶을 그려보게 한다.",
+    "막연한 전환 욕구를 실행 가능한 다음 행동으로 바꿔준다."
+  ],
+  "keyQuotes": [
+    "삶은 한 번에 완성하는 계획서가 아니라 계속 실험하는 설계물이다.",
+    "정답을 찾기보다 가능한 삶을 만들어보는 태도가 전환을 가볍게 한다."
+  ],
+  "curatorNote": "노트와 펜을 곁에 두고 읽으면 좋습니다. 읽는 책이라기보다 직접 설계해보는 워크북에 가깝습니다.",
+  "recommendedFor": ["커리어 전환을 고민하는 사람", "앞으로 10년의 삶을 다시 그려보고 싶은 사람", "실험하듯 삶을 설계하고 싶은 사람"],
+  "relatedBookIds": ["range", "four-thousand-weeks"],
+  "markdownPath": "markdown/designing-your-life.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

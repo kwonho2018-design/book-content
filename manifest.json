@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
-  "lastUpdated": "2026-06-12T20:20:50+09:00",
+  "contentVersion": 4,
+  "lastUpdated": "2026-06-13T09:50:00+09:00",
   "minimumAppVersion": "1.0.0",
   "forceRefresh": false,
   "books": [
@@ -52,6 +52,158 @@
       "updatedAt": "2026-06-12T20:20:50+09:00",
       "jsonPath": "books/as-a-man-thinketh.json",
       "markdownPath": "markdown/as-a-man-thinketh.md"
+    },
+    {
+      "id": "the-one-thing",
+      "title": "원씽",
+      "author": "게리 켈러, 제이 파파산",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/the-one-thing.json",
+      "markdownPath": "markdown/the-one-thing.md"
+    },
+    {
+      "id": "essentialism",
+      "title": "에센셜리즘",
+      "author": "그렉 맥커운",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/essentialism.json",
+      "markdownPath": "markdown/essentialism.md"
+    },
+    {
+      "id": "deep-work",
+      "title": "딥 워크",
+      "author": "칼 뉴포트",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/deep-work.json",
+      "markdownPath": "markdown/deep-work.md"
+    },
+    {
+      "id": "four-thousand-weeks",
+      "title": "4천 주",
+      "author": "올리버 버크먼",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/four-thousand-weeks.json",
+      "markdownPath": "markdown/four-thousand-weeks.md"
+    },
+    {
+      "id": "saynos-teachings",
+      "title": "세이노의 가르침",
+      "author": "세이노",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/saynos-teachings.json",
+      "markdownPath": "markdown/saynos-teachings.md"
+    },
+    {
+      "id": "psychology-of-money",
+      "title": "돈의 심리학",
+      "author": "모건 하우절",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/psychology-of-money.json",
+      "markdownPath": "markdown/psychology-of-money.md"
+    },
+    {
+      "id": "entrepreneur-equation",
+      "title": "당신은 사업가입니까",
+      "author": "캐럴 로스",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/entrepreneur-equation.json",
+      "markdownPath": "markdown/entrepreneur-equation.md"
+    },
+    {
+      "id": "dignity-of-work",
+      "title": "일의 격",
+      "author": "신수정",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/dignity-of-work.json",
+      "markdownPath": "markdown/dignity-of-work.md"
+    },
+    {
+      "id": "range",
+      "title": "레인지",
+      "author": "데이비드 엡스타인",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/range.json",
+      "markdownPath": "markdown/range.md"
+    },
+    {
+      "id": "outlive",
+      "title": "질병 해방",
+      "author": "피터 아티아, 빌 기퍼드",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/outlive.json",
+      "markdownPath": "markdown/outlive.md"
+    },
+    {
+      "id": "exercise-brain-science",
+      "title": "운동의 뇌과학",
+      "author": "제니퍼 헤이스",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/exercise-brain-science.json",
+      "markdownPath": "markdown/exercise-brain-science.md"
+    },
+    {
+      "id": "built-to-move",
+      "title": "Built to Move",
+      "author": "Kelly Starrett, Juliet Starrett",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/built-to-move.json",
+      "markdownPath": "markdown/built-to-move.md"
+    },
+    {
+      "id": "the-good-life",
+      "title": "The Good Life",
+      "author": "Robert Waldinger, Marc Schulz",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/the-good-life.json",
+      "markdownPath": "markdown/the-good-life.md"
+    },
+    {
+      "id": "nonviolent-communication",
+      "title": "비폭력 대화",
+      "author": "마셜 B. 로젠버그",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/nonviolent-communication.json",
+      "markdownPath": "markdown/nonviolent-communication.md"
+    },
+    {
+      "id": "words-bowl",
+      "title": "말 그릇",
+      "author": "김윤나",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/words-bowl.json",
+      "markdownPath": "markdown/words-bowl.md"
+    },
+    {
+      "id": "mans-search-for-meaning",
+      "title": "죽음의 수용소에서",
+      "author": "빅터 프랭클",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/mans-search-for-meaning.json",
+      "markdownPath": "markdown/mans-search-for-meaning.md"
+    },
+    {
+      "id": "attitude-of-life",
+      "title": "인생의 태도",
+      "author": "웨인 다이어",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/attitude-of-life.json",
+      "markdownPath": "markdown/attitude-of-life.md"
+    },
+    {
+      "id": "how-to-know-a-person",
+      "title": "How to Know a Person",
+      "author": "David Brooks",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/how-to-know-a-person.json",
+      "markdownPath": "markdown/how-to-know-a-person.md"
+    },
+    {
+      "id": "designing-your-life",
+      "title": "Designing Your Life",
+      "author": "Bill Burnett, Dave Evans",
+      "updatedAt": "2026-06-13T09:50:00+09:00",
+      "jsonPath": "books/designing-your-life.json",
+      "markdownPath": "markdown/designing-your-life.md"
     }
   ],
   "collectionsPath": "collections.json",

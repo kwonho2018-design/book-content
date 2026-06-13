@@ -1,0 +1,32 @@
+{
+  "id": "saynos-teachings",
+  "title": "세이노의 가르침",
+  "subtitle": "피보다 진하게 살아라",
+  "author": "세이노",
+  "publisher": "데이원",
+  "publishedYear": 2023,
+  "isbn": "9791168473690",
+  "category": "self-improvement",
+  "tags": ["태도", "돈", "현실감각", "자기관리"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 12,
+  "curatorScore": 86,
+  "oneLine": "좋은 말보다 현실 감각으로 자신을 다시 세우게 하는 책",
+  "whyRead": "위로가 필요한 순간도 있지만, 때로는 차갑고 분명한 조언이 삶을 움직인다. 일, 돈, 자기관리의 감각을 점검하기 좋다.",
+  "summary": [
+    "성과와 돈을 막연한 희망이 아니라 태도와 행동의 결과로 다룬다.",
+    "사회생활, 공부, 소비, 인간관계에 대한 직설적인 조언이 많다.",
+    "불편한 문장이 많지만 그 불편함이 자기 점검의 계기가 된다.",
+    "인생 후반전을 현실적으로 재설계하려는 독자에게 강한 자극을 준다."
+  ],
+  "keyQuotes": [
+    "현실을 보지 않는 긍정은 오래 버티지 못한다.",
+    "자기 삶을 바꾸려면 먼저 핑계의 구조를 알아차려야 한다."
+  ],
+  "curatorNote": "모든 문장에 동의하기보다, 불편하게 걸리는 부분을 자신의 점검표로 쓰면 좋습니다.",
+  "recommendedFor": ["현실적인 자기 점검이 필요한 사람", "돈과 일에 대한 태도를 다시 세우고 싶은 사람", "부드러운 위로보다 강한 자극이 필요한 사람"],
+  "relatedBookIds": ["psychology-of-money", "the-one-thing"],
+  "markdownPath": "markdown/saynos-teachings.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

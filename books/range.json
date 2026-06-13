@@ -1,0 +1,32 @@
+{
+  "id": "range",
+  "title": "레인지",
+  "subtitle": "늦깎이 천재들의 비밀",
+  "author": "데이비드 엡스타인",
+  "publisher": "열린책들",
+  "publishedYear": 2020,
+  "isbn": "9788932967417",
+  "category": "career",
+  "tags": ["성장", "커리어", "학습", "전환"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 11,
+  "curatorScore": 88,
+  "oneLine": "늦은 전환과 넓은 경험의 가치를 증명하는 성장의 책",
+  "whyRead": "40대에는 늦었다는 감각이 쉽게 찾아온다. 이 책은 다양한 경험이 오히려 복잡한 문제를 푸는 힘이 될 수 있음을 보여준다.",
+  "summary": [
+    "빠른 전문화만이 성공의 유일한 길은 아니다.",
+    "복잡한 세계에서는 넓은 경험과 느린 학습이 장기적으로 강점이 될 수 있다.",
+    "실패와 전환은 커리어의 낭비가 아니라 판단력을 키우는 재료가 된다.",
+    "늦게 시작한 사람에게도 성장의 다른 경로가 있음을 설득한다."
+  ],
+  "keyQuotes": [
+    "넓게 배운 경험은 늦게라도 깊은 판단으로 돌아온다.",
+    "전환은 실패의 증거가 아니라 더 맞는 문제를 찾는 과정일 수 있다."
+  ],
+  "curatorNote": "커리어가 직선이 아니었다고 느끼는 사람에게 특히 든든한 책입니다.",
+  "recommendedFor": ["늦은 전환을 고민하는 사람", "다양한 경험이 산만함처럼 느껴지는 사람", "새 분야를 배우기 시작한 사람"],
+  "relatedBookIds": ["dignity-of-work", "designing-your-life"],
+  "markdownPath": "markdown/range.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

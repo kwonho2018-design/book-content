@@ -1,0 +1,32 @@
+{
+  "id": "the-good-life",
+  "title": "The Good Life",
+  "subtitle": "Lessons from the World's Longest Scientific Study of Happiness",
+  "author": "Robert Waldinger, Marc Schulz",
+  "publisher": "Simon & Schuster",
+  "publishedYear": 2023,
+  "isbn": "9781982166694",
+  "category": "relationships",
+  "tags": ["관계", "행복", "건강", "중년"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 10,
+  "curatorScore": 90,
+  "oneLine": "행복과 건강의 중심에 관계가 있다는 사실을 차분히 보여주는 책",
+  "whyRead": "40대 이후의 행복은 성취보다 관계의 질에 더 크게 좌우된다. 이 책은 오래된 연구를 바탕으로 관계를 삶의 핵심 자산으로 보게 한다.",
+  "summary": [
+    "좋은 삶은 완벽한 조건보다 좋은 관계의 반복에서 만들어진다.",
+    "친밀한 관계는 행복뿐 아니라 건강과 회복력에도 영향을 준다.",
+    "관계는 타고나는 것이 아니라 관심과 시간으로 관리되는 삶의 기술이다.",
+    "중년 이후 관계를 방치하지 않고 돌봐야 할 이유를 설득력 있게 보여준다."
+  ],
+  "keyQuotes": [
+    "좋은 관계는 삶의 배경이 아니라 건강과 행복의 중심 조건이다.",
+    "관계의 질은 큰 이벤트보다 작고 꾸준한 관심에서 자란다."
+  ],
+  "curatorNote": "책을 덮고 바로 떠오르는 사람에게 안부를 보내게 만드는 힘이 있습니다.",
+  "recommendedFor": ["관계와 행복의 연결을 이해하고 싶은 사람", "가족과 친구 관계를 다시 돌보고 싶은 사람", "성취 이후의 삶의 질을 고민하는 사람"],
+  "relatedBookIds": ["nonviolent-communication", "how-to-know-a-person"],
+  "markdownPath": "markdown/the-good-life.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

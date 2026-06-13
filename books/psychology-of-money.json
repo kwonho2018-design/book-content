@@ -1,0 +1,32 @@
+{
+  "id": "psychology-of-money",
+  "title": "돈의 심리학",
+  "subtitle": "당신은 왜 부자가 되지 못했는가",
+  "author": "모건 하우절",
+  "publisher": "인플루엔셜",
+  "publishedYear": 2021,
+  "isbn": "9791191056372",
+  "category": "finance",
+  "tags": ["재정", "투자", "심리", "복리"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 11,
+  "curatorScore": 90,
+  "oneLine": "돈을 숫자가 아니라 행동과 감정의 문제로 이해하게 하는 책",
+  "whyRead": "40대의 재정 판단은 수익률보다 지속 가능성에 더 크게 흔들린다. 이 책은 돈을 대하는 태도, 위험, 만족의 기준을 차분히 정리한다.",
+  "summary": [
+    "돈 문제는 지식보다 행동의 일관성과 감정 조절에서 갈린다.",
+    "복리는 시간과 생존이 함께 있어야 작동한다.",
+    "남의 부를 따라 하려는 마음이 자신의 재정 기준을 흐릴 수 있다.",
+    "충분함을 아는 능력은 투자 실력만큼 중요한 재정 기술이다."
+  ],
+  "keyQuotes": [
+    "돈을 오래 지키는 능력은 돈을 빠르게 버는 능력과 다르다.",
+    "부의 핵심은 남에게 보이는 소비보다 선택할 수 있는 자유에 가깝다."
+  ],
+  "curatorNote": "투자 기술서로 읽기보다, 흔들릴 때 다시 볼 재정 태도 노트로 읽으면 좋습니다.",
+  "recommendedFor": ["재테크를 시작했지만 마음이 자주 흔들리는 사람", "가족 재정의 장기 기준이 필요한 사람", "돈과 행복의 거리를 다시 생각하고 싶은 사람"],
+  "relatedBookIds": ["saynos-teachings", "four-thousand-weeks"],
+  "markdownPath": "markdown/psychology-of-money.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

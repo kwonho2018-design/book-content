@@ -1,0 +1,32 @@
+{
+  "id": "how-to-know-a-person",
+  "title": "How to Know a Person",
+  "subtitle": "The Art of Seeing Others Deeply and Being Deeply Seen",
+  "author": "David Brooks",
+  "publisher": "Random House",
+  "publishedYear": 2023,
+  "isbn": "9780593230060",
+  "category": "relationships",
+  "tags": ["관계", "경청", "공감", "대화"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 11,
+  "curatorScore": 88,
+  "oneLine": "사람을 더 깊이 보고 더 잘 듣는 법을 배우는 관계의 책",
+  "whyRead": "중년 이후의 관계는 넓이보다 깊이가 중요해진다. 이 책은 상대를 판단하기 전에 제대로 보는 태도와 질문을 훈련하게 한다.",
+  "summary": [
+    "사람을 안다는 것은 정보 수집이 아니라 주의 깊게 보는 태도에서 시작된다.",
+    "좋은 대화는 조언보다 상대의 경험을 더 정확히 이해하려는 질문에서 열린다.",
+    "관계의 깊이는 말솜씨보다 경청과 호기심의 질에 달려 있다.",
+    "가족, 친구, 동료에게 더 잘 보이는 사람이 되는 법을 다룬다."
+  ],
+  "keyQuotes": [
+    "사람을 깊이 아는 일은 상대를 고치는 일이 아니라 더 선명하게 보는 일이다.",
+    "좋은 질문은 관계의 문을 조용히 열어준다."
+  ],
+  "curatorNote": "대화를 잘하고 싶은 사람보다 사람을 덜 단정하고 싶은 사람에게 더 좋습니다.",
+  "recommendedFor": ["중년 이후 깊은 관계를 만들고 싶은 사람", "경청과 질문의 힘을 배우고 싶은 사람", "가족과 동료를 더 잘 이해하고 싶은 사람"],
+  "relatedBookIds": ["the-good-life", "words-bowl"],
+  "markdownPath": "markdown/how-to-know-a-person.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

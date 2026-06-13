@@ -1,0 +1,32 @@
+{
+  "id": "attitude-of-life",
+  "title": "인생의 태도",
+  "subtitle": "행복한 이기주의자로 평생 살아보니 알게 된 것들",
+  "author": "웨인 다이어",
+  "publisher": "더퀘스트",
+  "publishedYear": 2020,
+  "isbn": "9791165211653",
+  "category": "self-improvement",
+  "tags": ["마음", "태도", "불안", "현재"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 10,
+  "curatorScore": 86,
+  "oneLine": "불안과 비교를 줄이고 지금의 태도를 다시 고르게 하는 책",
+  "whyRead": "40대에는 내가 가진 역할이 나 자신인지 묻게 된다. 이 책은 직업, 성취, 타인의 평가와 나를 분리해보게 한다.",
+  "summary": [
+    "행복을 미래의 조건이 아니라 현재의 태도에서 바라본다.",
+    "직업, 재산, 관계가 흔들려도 남는 자기 자신을 묻게 한다.",
+    "불안과 비교에 끌려가는 마음을 현재로 돌리는 문장이 많다.",
+    "삶의 선택을 남의 기준이 아니라 자기 태도에서 시작하도록 돕는다."
+  ],
+  "keyQuotes": [
+    "삶을 바꾸는 첫 선택은 상황보다 그 상황을 대하는 태도에서 시작된다.",
+    "내가 하는 일이 사라져도 나는 여전히 나로 남아야 한다."
+  ],
+  "curatorNote": "크게 흔들리는 날보다 작게 지치는 날에 더 잘 맞는 책입니다.",
+  "recommendedFor": ["불안과 비교가 잦은 사람", "자기 정체성을 다시 정리하고 싶은 사람", "현재를 사는 감각을 회복하고 싶은 사람"],
+  "relatedBookIds": ["mans-search-for-meaning", "four-thousand-weeks"],
+  "markdownPath": "markdown/attitude-of-life.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "four-thousand-weeks",
+  "title": "4천 주",
+  "subtitle": "영원히 살 수 없는 우리 모두를 위한 시간 관리법",
+  "author": "올리버 버크먼",
+  "publisher": "21세기북스",
+  "publishedYear": 2022,
+  "isbn": "9788950962678",
+  "category": "self-improvement",
+  "tags": ["시간", "한계", "우선순위", "삶"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 11,
+  "curatorScore": 88,
+  "oneLine": "시간을 더 채우기보다 유한함을 받아들이게 하는 책",
+  "whyRead": "중년의 시간 관리는 생산성보다 선택의 철학에 가깝다. 이 책은 모든 일을 해낼 수 없다는 사실을 편안하게 인정하게 만든다.",
+  "summary": [
+    "인생의 시간은 생각보다 짧고, 그 짧음을 인정할 때 선택이 선명해진다.",
+    "완벽한 시간 관리 시스템을 찾는 태도 자체가 또 다른 회피가 될 수 있다.",
+    "중요한 일은 언젠가가 아니라 제한된 시간 안에서 지금 배치되어야 한다.",
+    "느림, 포기, 불완전함을 삶의 실패가 아니라 현실적인 조건으로 읽게 한다."
+  ],
+  "keyQuotes": [
+    "모든 것을 해낼 수 없다는 사실은 패배가 아니라 방향을 정하는 출발점이다.",
+    "시간을 통제하려는 집착을 내려놓을 때 지금 할 일이 보인다."
+  ],
+  "curatorNote": "해야 할 일을 더 잘 처리하는 책이 아니라, 하지 못할 일을 받아들이게 해주는 책입니다.",
+  "recommendedFor": ["시간 부족감에 늘 쫓기는 사람", "생산성 도구를 바꿔도 삶이 버거운 사람", "삶의 우선순위를 깊게 다시 묻고 싶은 사람"],
+  "relatedBookIds": ["essentialism", "attitude-of-life"],
+  "markdownPath": "markdown/four-thousand-weeks.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

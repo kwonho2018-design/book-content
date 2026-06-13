@@ -1,0 +1,32 @@
+{
+  "id": "built-to-move",
+  "title": "Built to Move",
+  "subtitle": "The Ten Essential Habits to Help You Move Freely and Live Fully",
+  "author": "Kelly Starrett, Juliet Starrett",
+  "publisher": "Knopf",
+  "publishedYear": 2023,
+  "isbn": "9780593534809",
+  "category": "health",
+  "tags": ["몸", "움직임", "관절", "자세"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 10,
+  "curatorScore": 86,
+  "oneLine": "운동 이전의 움직임, 자세, 관절 감각을 점검하게 하는 실용서",
+  "whyRead": "40대 이후 몸 관리는 강한 운동만으로 해결되지 않는다. 오래 앉아 있는 생활에서 잃어버린 움직임의 기본을 되찾게 한다.",
+  "summary": [
+    "움직임을 운동선수의 기술이 아니라 일상 기능의 기초로 다룬다.",
+    "관절, 균형, 호흡, 보행 같은 기본 능력을 점검하게 한다.",
+    "매일 실천 가능한 작은 움직임 습관으로 몸의 사용성을 높인다.",
+    "운동을 시작하기 전 몸을 더 잘 움직일 수 있는 상태로 만드는 데 도움을 준다."
+  ],
+  "keyQuotes": [
+    "몸은 특별한 시간이 아니라 매일의 자세와 움직임으로 관리된다.",
+    "더 잘 움직이는 능력은 더 오래 자유롭게 사는 능력과 이어진다."
+  ],
+  "curatorNote": "헬스장에 가기 전, 오늘 의자에서 얼마나 자주 일어났는지부터 체크해보게 만드는 책입니다.",
+  "recommendedFor": ["관절과 자세를 점검하고 싶은 사람", "운동을 시작하기 전 몸의 기본기를 만들고 싶은 사람", "오래 앉아 일하는 사람"],
+  "relatedBookIds": ["outlive", "exercise-brain-science"],
+  "markdownPath": "markdown/built-to-move.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

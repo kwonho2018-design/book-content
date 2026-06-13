@@ -1,0 +1,32 @@
+{
+  "id": "nonviolent-communication",
+  "title": "비폭력 대화",
+  "subtitle": "일상에서 쓰는 평화와 공감의 언어",
+  "author": "마셜 B. 로젠버그",
+  "publisher": "한국NVC출판사",
+  "publishedYear": 2017,
+  "isbn": "9791185121505",
+  "category": "relationships",
+  "tags": ["관계", "대화", "공감", "가족"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 11,
+  "curatorScore": 89,
+  "oneLine": "비난과 방어의 대화를 관찰, 감정, 욕구, 부탁으로 바꾸는 책",
+  "whyRead": "가까운 관계일수록 말은 습관이 되고 상처가 된다. 이 책은 가족, 배우자, 동료와의 말을 덜 공격적이고 더 정확하게 바꾸는 틀을 준다.",
+  "summary": [
+    "비폭력 대화는 상대를 이기는 말이 아니라 서로의 욕구를 이해하는 대화 방식이다.",
+    "평가와 해석을 줄이고 관찰과 감정을 분리하는 연습을 제안한다.",
+    "갈등 상황에서 비난 대신 요청을 만들도록 돕는다.",
+    "가족, 조직, 공동체 대화에 모두 적용할 수 있다."
+  ],
+  "keyQuotes": [
+    "말을 바꾸는 일은 상대를 바꾸기 전에 내 반응의 구조를 보는 일이다.",
+    "공감은 동의가 아니라 상대의 욕구를 정확히 듣는 능력이다."
+  ],
+  "curatorNote": "한 번에 능숙해지기 어렵습니다. 먼저 '평가'와 '관찰'을 구분하는 연습부터 시작하세요.",
+  "recommendedFor": ["가족과의 말 습관을 바꾸고 싶은 사람", "갈등 때 감정이 앞서는 사람", "공감과 경계를 함께 배우고 싶은 사람"],
+  "relatedBookIds": ["words-bowl", "the-good-life"],
+  "markdownPath": "markdown/nonviolent-communication.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

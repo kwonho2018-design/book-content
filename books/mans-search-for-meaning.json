@@ -1,0 +1,32 @@
+{
+  "id": "mans-search-for-meaning",
+  "title": "죽음의 수용소에서",
+  "subtitle": "빅터 프랭클의 로고테라피",
+  "author": "빅터 프랭클",
+  "publisher": "청아출판사",
+  "publishedYear": 2005,
+  "isbn": "9788936811549",
+  "category": "humanities",
+  "tags": ["의미", "고통", "태도", "철학"],
+  "difficulty": "intermediate",
+  "estimatedReadMinutes": 12,
+  "curatorScore": 92,
+  "oneLine": "삶이 무너지는 자리에서도 의미를 선택할 수 있음을 말하는 고전",
+  "whyRead": "인생 중반에는 피할 수 없는 상실과 고통을 어떻게 해석할지가 중요해진다. 이 책은 상황보다 태도와 의미의 힘을 깊게 묻는다.",
+  "summary": [
+    "극한의 경험을 통해 인간이 끝까지 지킬 수 있는 내면의 자유를 탐구한다.",
+    "고통을 미화하지 않으면서도 그 안에서 의미를 발견하는 가능성을 말한다.",
+    "로고테라피의 핵심인 의미 추구를 삶의 태도로 제시한다.",
+    "어려운 시기를 견디는 힘을 단순한 긍정이 아니라 책임과 선택에서 찾는다."
+  ],
+  "keyQuotes": [
+    "상황을 선택할 수 없을 때도 그 상황을 대하는 태도는 마지막 자유로 남는다.",
+    "의미는 편안한 날보다 견뎌야 하는 날에 더 선명해질 수 있다."
+  ],
+  "curatorNote": "가볍게 읽을 책은 아니지만, 삶의 기준이 흔들릴 때 오래 남는 책입니다.",
+  "recommendedFor": ["삶의 의미를 다시 묻고 싶은 사람", "상실과 고통을 견디는 힘이 필요한 사람", "태도와 책임의 철학을 읽고 싶은 사람"],
+  "relatedBookIds": ["attitude-of-life", "four-thousand-weeks"],
+  "markdownPath": "markdown/mans-search-for-meaning.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}

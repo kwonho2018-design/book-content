@@ -1,0 +1,32 @@
+{
+  "id": "words-bowl",
+  "title": "말 그릇",
+  "subtitle": "비울수록 사람을 더 채우는 말의 힘",
+  "author": "김윤나",
+  "publisher": "오아시스",
+  "publishedYear": 2017,
+  "isbn": "9791185952987",
+  "category": "relationships",
+  "tags": ["관계", "대화", "감정", "소통"],
+  "difficulty": "beginner",
+  "estimatedReadMinutes": 10,
+  "curatorScore": 86,
+  "oneLine": "말의 기술보다 말을 담는 마음의 크기를 돌아보게 하는 책",
+  "whyRead": "말은 나이가 들수록 더 큰 영향력을 갖는다. 이 책은 감정이 실린 대화를 정리하고, 상대를 담아내는 말의 태도를 점검하게 한다.",
+  "summary": [
+    "말의 문제를 표현 기술보다 마음의 용량과 감정 처리 방식에서 바라본다.",
+    "가까운 사람에게 더 쉽게 무너지는 말 습관을 돌아보게 한다.",
+    "듣기, 질문, 감정 인식의 중요성을 실제 관계의 언어로 풀어낸다.",
+    "좋은 말은 잘 꾸민 말보다 상대를 담을 공간을 만드는 말이라는 관점을 준다."
+  ],
+  "keyQuotes": [
+    "말은 입에서 나오지만 그 크기는 마음의 그릇에서 정해진다.",
+    "좋은 대화는 상대를 바꾸려는 조급함을 잠시 내려놓는 데서 시작된다."
+  ],
+  "curatorNote": "말실수를 자주 후회한다면, 이 책은 기술서보다 거울에 가깝습니다.",
+  "recommendedFor": ["감정이 실린 말을 줄이고 싶은 사람", "배우자와 가족 대화를 정돈하고 싶은 사람", "듣는 힘을 키우고 싶은 사람"],
+  "relatedBookIds": ["nonviolent-communication", "how-to-know-a-person"],
+  "markdownPath": "markdown/words-bowl.md",
+  "createdAt": "2026-06-13T09:50:00+09:00",
+  "updatedAt": "2026-06-13T09:50:00+09:00"
+}
